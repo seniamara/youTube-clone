@@ -45,7 +45,7 @@ YouTube.
 
 ## 🗂️ **Estrutura do Projeto**
 
-
+´´´
 lib/
 ├── app/
 │   ├── home/
@@ -68,7 +68,7 @@ YouTube
 │   ├── custom_delegate.dart     # Delegate personalizado para 
 barra de pesquisa
 
-
+´´´
 ---
 
 ## 🔧 **Configuração e Execução**
